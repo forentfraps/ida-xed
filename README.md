@@ -7,7 +7,8 @@ An experimental **IDA Pro** plugin that integrates the **Intel XED** decoder to 
 
 ## Features
 
-* Decode the instruction at the current cursor using XED and display a detail pane
+* Decode the instruction at the current cursor using XED
+* If IDA can't handle an opcode, add a comment instead
 
 
 > If you have a feature request, please open an issue or PR.
